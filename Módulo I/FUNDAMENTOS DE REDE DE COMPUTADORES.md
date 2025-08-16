@@ -112,7 +112,7 @@ Permite verificar as configurações de rede do dispositivo, sendo possível ver
 **Ping**  
 É usado para testar a conectividade da rede, sendo o primeiro comando que deve ser utilizado em um processo de diagnóstico de problemas em redes de computadores, pois testa a conectividade entre dispositivos. Ela envia mensagens e recebe mensagens em resposta. Quando em execução, ele mede o tempo de ida e volta de cada um desses pacotes que possibilita a análise dos tempos de transmissão, do tempo médio, do tempo máximo e do tempo mínimo dos pacotes transmitidos.  
 ![][image12]  
-Nos dispositivos finais, o ping é executado através do comando ping \+ ip ou url do dispositivo remoto que se deseja testar. Por exemplo, utilizar “*ping www.google.com*” para testar a conectividade da máquina com o servidor google, podendo utilizar a opção \-4 para definir que deve ser utilizada nessa comunicação o endereço IPv4.  
+Nos dispositivos finais, o ping é executado através do comando ping \+ ip ou url do dispositivo remoto que se deseja testar. Por exemplo, utilizar “ping www.google.com” para testar a conectividade da máquina com o servidor google, podendo utilizar a opção \-4 para definir que deve ser utilizada nessa comunicação o endereço IPv4.  
 ![][image13]
 
 **Traceroute**  
